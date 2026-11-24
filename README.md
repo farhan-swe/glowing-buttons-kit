@@ -7,7 +7,7 @@ Button #9 is exclusive perk, Enjoy the glowing buttons kit.
 ## How to Use:
 Clone or Download the Repository
   ```
-https://github.com/khdxsohee/glowing-buttons-kit.git
+https://github.com/farhan-swe/glowing-buttons-kit.git
   ```
 - Save the HTML: Save the first code block as index.html.
 - Save the CSS: Save the second code block as style.css in the same directory as index.html.
